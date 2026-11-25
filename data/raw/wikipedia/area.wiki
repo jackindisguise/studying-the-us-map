@@ -1,0 +1,301 @@
+{{Short description|None}}
+{{Use American English|date=November 2025}}
+{{Use mdy dates|date=April 2023}}
+This is a complete list of all 50 [[U.S. state]]s, its federal ([[Washington, D.C.]]) and its major [[Territories of the United States|territories]] ordered by total area, land area and water area.<ref>{{cite web |url = https://www.census.gov/geographies/reference-files/2010/geo/state-area.html |title = State Area Measurements and Internal Point Coordinates |date = 2010 |website = census.gov |access-date = 2 Dec 2023}}</ref> The water area includes [[inland waters]], [[coastal waters]], the [[Great Lakes]] and [[territorial waters]]. [[Glacier]]s and intermittent bodies of water are counted as land area.<ref>{{cite web|url= https://www2.census.gov/geo/pdfs/reference/glossry2.pdf |title=Census 2000 Geographic Terms and Concepts |work=Census 2000 Geography Glossary |publisher=U.S. Census Bureau |access-date=July 10, 2007}}</ref>
+
+== Area by state, federal district or territory ==
+{{sticky header}}{{static row numbers}}{{table alignment}}
+{| class="wikitable sortable plainrowheaders sticky-header-multi static-row-numbers col1left" {{right}}
+|+ Land, water and total area by U.S. state, district or territory; sortable
+! scope="col" rowspan=2 | State / territory 
+! colspan="2" |Total area
+! colspan="2" |Land area
+! colspan="3" |Water area!! rowspan="2" scope="col" | National<br />%
+|- class="static-row-numbers-norank"
+! scope="col" | km<sup>2</sup> 
+! scope="col" | mi<sup>2</sup> !! scope="col" | km<sup>2</sup> !! scope="col" | mi<sup>2</sup>!! scope="col" | km<sup>2</sup> !! scope="col" | mi<sup>2</sup> !! scope="col" | %
+|-
+! scope="row" | {{flag|Alaska}}
+| 1,723,337 
+| 665,384 || 1,518,800 || 588,400 || 236,508 || 91,316 || {{percentage|91316|665384|1|pad=yes}} || {{percentage|665384|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Texas}}
+| 695,662 
+| 268,596 || 676,587 || 261,232 || 19,075 || 7,365 || {{percentage|7365|268596|1|pad=yes}} || {{percentage|268596|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|California}}
+| 423,967 
+| 163,695 || 403,466 || 155,779 || 20,501 || 7,916 || {{percentage|7916|163695|1|pad=yes}} || {{percentage|163695|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Montana}}
+| 380,831 
+| 147,040 || 376,962 || 145,546 || 3,869 || 1,494 || {{percentage|1494|147040|1|pad=yes}} || {{percentage|147040|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|New Mexico}}
+| 314,917 
+| 121,590 || 314,161 || 121,298 || 757 || 292 || {{percentage|292|121590|1|pad=yes}} || {{percentage|121590|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Arizona}}
+| 295,234 
+| 113,990 || 294,207 || 113,594 || 1,026 || 396 || {{percentage|396|113990|1|pad=yes}} || {{percentage|113990|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Nevada}}
+| 286,382
+| 110,572 || 284,332 || 109,781 || 2,048 || 791 || {{percentage|791|110572|1|pad=yes}} || {{percentage|110572|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Colorado}}
+| 269,601 
+| 104,094 || 268,431 || 103,642 || 1,170 || 452 || {{percentage|452|104094|1|pad=yes}} || {{percentage|104094|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Oregon}}
+| 254,799 
+| 98,379 || 248,608 || 95,988 || 6,191 || 2,391 || {{percentage|2391|98379|1|pad=yes}} || {{percentage|98379|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Wyoming}}
+| 253,335 
+| 97,813 || 251,470 || 97,093 || 1,864 || 720 || {{percentage|720|97813|1|pad=yes}} || {{percentage|97813|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Michigan}}
+| 250,487 
+| 96,714 || 146,435 || 56,539 || 104,052 || 40,175 || {{percentage|40175|96714|1|pad=yes}} || {{percentage|96714|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Minnesota}}
+| 225,163 
+| 86,936 || 206,232 || 79,627 || 18,930 || 7,309 || {{percentage|7309|86936|1|pad=yes}} || {{percentage|86936|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Utah}}
+| 219,882 
+| 84,897 || 212,818 || 82,170 || 7,064 || 2,727 || {{percentage|2727|84897|1|pad=yes}} || {{percentage|84897|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Idaho}}
+| 216,443 
+| 83,569 || 214,045 || 82,643 || 2,398 || 926 || {{percentage|926|83569|1|pad=yes}} || {{percentage|83569|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Kansas}}
+| 213,100 
+| 82,278 || 211,754 || 81,759 || 1,346 || 520 || {{percentage|520|82278|1|pad=yes}} || {{percentage|82278|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Nebraska}}
+| 200,330 
+| 77,348 || 198,974 || 76,824 || 1,356 || 524 || {{percentage|524|77348|1|pad=yes}} || {{percentage|77348|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|South Dakota}}
+| 199,729 
+| 77,116 || 196,350 || 75,811 || 3,379 || 1,305 || {{percentage|1305|77116|1|pad=yes}} || {{percentage|77116|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Washington}}
+| 184,661 
+| 71,298 || 172,119 || 66,456 || 12,542 || 4,842 || {{percentage|4842|71298|1|pad=yes}} || {{percentage|71298|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|North Dakota}}
+| 183,108 
+| 70,698 || 178,711 || 69,001 || 4,397 || 1,698 || {{percentage|1698|70698|1|pad=yes}} || {{percentage|70698|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Oklahoma}}
+| 181,037 
+| 69,899 || 177,660 || 68,595 || 3,377 || 1,304 || {{percentage|1304|69899|1|pad=yes}} || {{percentage|69899|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Missouri}}
+| 180,540 
+| 69,707 || 178,040 || 68,742 || 2,501 || 965 || {{percentage|965|69707|1|pad=yes}} || {{percentage|69707|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Florida}}
+| 170,312 
+| 65,758 || 138,887 || 53,625 || 31,424 || 12,133 || {{percentage|12133|65758|1|pad=yes}} || {{percentage|65758|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Wisconsin}}
+| 169,635 
+| 65,496 || 140,268 || 54,158 || 29,367 || 11,339 || {{percentage|11339|65496|1|pad=yes}} || {{percentage|65496|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Georgia (U.S. state)|name=Georgia}}
+| 153,910 
+| 59,425 || 148,959 || 57,513 || 4,951 || 1,912 || {{percentage|1912|59425|1|pad=yes}} || {{percentage|59425|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Illinois}}
+| 149,995 
+| 57,914 || 143,793 || 55,519 || 6,202 || 2,395 || {{percentage|2395|57914|1|pad=yes}} || {{percentage|57914|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|Iowa}}
+| 145,746 
+| 56,273 || 144,669 || 55,857 || 1,077 || 416 || {{percentage|416|56273|1|pad=yes}} || {{percentage|56273|3805927|2|pad=yes}}
+|-
+! scope="row" | {{flag|New York}}
+| 141,297 
+| 54,555 || 122,057 || 47,126 || 19,240 || 7,429 || {{percentage|7429|54555|pad=1}} || {{percentage|54555|3805927|pad=2}}
+|-
+! scope="row" | {{flag|North Carolina}}
+| 139,391 
+| 53,819 || 125,920 || 48,618 || 13,471 || 5,201 || {{percentage|5201|53819|pad=1}} || {{percentage|53819|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Arkansas}}
+| 137,732 
+| 53,179 || 134,771 || 52,035 || 2,961 || 1,143 || {{percentage|1143|53179|pad=1}} || {{percentage|53179|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Alabama}}
+| 135,767 
+| 52,420 || 131,171 || 50,645 || 4,597 || 1,775 || {{percentage|1775|52420|pad=1}} || {{percentage|52420|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Louisiana}}
+| 135,659 
+| 52,378 || 111,898 || 43,204 || 23,761 || 9,174 || {{percentage|9174|52378|pad=1}} || {{percentage|52378|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Mississippi}}
+| 125,438 
+| 48,432 || 121,531 || 46,923 || 3,907 || 1,509 || {{percentage|1509|48432|pad=1}} || {{percentage|48432|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Pennsylvania}}
+| 119,280 
+| 46,054 || 115,883 || 44,743 || 3,397 || 1,312 || {{percentage|1312|46054|pad=1}} || {{percentage|46054|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Ohio}}
+| 116,098 
+| 44,826 || 105,829 || 40,861 || 10,269 || 3,965 || {{percentage|3965|44826|pad=1}} || {{percentage|44826|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Virginia}}
+| 110,787 
+| 42,775 || 102,279 || 39,490 || 8,508 || 3,285 || {{percentage|3285|42775|pad=1}} || {{percentage|42775|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Tennessee}}
+| 109,153 
+| 42,144 || 106,798 || 41,235 || 2,355 || 909 || {{percentage|909|42144|pad=1}} || {{percentage|42144|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Kentucky}}
+| 104,656 
+| 40,408 || 102,269 || 39,486 || 2,387 || 921 || {{percentage|921|40408|pad=1}} || {{percentage|40408|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Indiana}}
+| 94,326 
+| 36,420 || 92,789 || 35,826 || 1,537 || 593 || {{percentage|593|36420|pad=1}} || {{percentage|36420|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Maine}}
+| 91,633 
+| 35,380 || 79,883 || 30,843 || 11,750 || 4,537 || {{percentage|4537|35380|pad=1}} || {{percentage|35380|3805927|pad=2}}
+|-
+! scope="row" | {{flag|South Carolina}}
+| 82,933 
+| 32,020 || 77,857 || 30,061 || 5,076 || 1,960 || {{percentage|1960|32020|pad=1}} || {{percentage|32020|3805927|pad=2}}
+|-
+! scope="row" | {{flag|West Virginia}}
+| 62,756 
+| 24,230 || 62,259 || 24,078 || 497 || 192 || {{percentage|192|24230|pad=1}} || {{percentage|24230|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Maryland}}
+| 32,131 
+| 12,406 || 25,142 || 9,707 || 6,990 || 2,699 || {{percentage|2699|12406|pad=1}} || {{percentage|12406|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Hawaii}}
+| 28,313 
+| 10,932 || 16,635 || 6,423 || 11,678 || 4,509 || {{percentage|4509|10932|pad=1}} || {{percentage|10932|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Massachusetts}}
+| 27,336 
+| 10,554 || 20,202 || 7,800 || 7,134 || 2,754 || {{percentage|2754|10554|pad=1}} || {{percentage|10554|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Vermont}}
+| 24,906 
+| 9,616 || 23,871 || 9,217 || 1,035 || 400 || {{percentage|400|9616|pad=1}} || {{percentage|9616|3805927|pad=2}}
+|-
+! scope="row" | {{flag|New Hampshire}}
+| 24,214 
+| 9,349 || 23,187 || 8,953 || 1,027 || 397 || {{percentage|397|9349|pad=1}} || {{percentage|9349|3805927|pad=2}}
+|-
+! scope="row" | {{flag|New Jersey}}
+| 22,591 
+| 8,723 || 19,047 || 7,354 || 3,544 || 1,368 || {{percentage|1368|8723|pad=1}} || {{percentage|8723|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Connecticut}}
+| 14,357 
+| 5,543 || 12,542 || 4,842 || 1,816 || 701 || {{percentage|701|5543|pad=1}} || {{percentage|5543|3805927|pad=2}}
+|- class="static-row-numbers-norank"
+! scope="row" | {{flag|Puerto Rico}}
+| 13,791 
+| 5,325 || 8,868 || 3,424 || 4,924 || 1,901 || {{percentage|1901|5325|pad=1}} || {{percentage|5325|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Delaware}}
+| 6,446 
+| 2,489 || 5,047 || 1,949 || 1,399 || 540 || {{percentage|540|2489|pad=1}} || {{percentage|2489|3805927|pad=2}}
+|- class="static-row-numbers-norank"
+! scope="row" | {{flag|Northern Mariana Islands}}
+| 5,117 
+| 1,976 || 472 || 182 || 4,644 || 1,793 || {{percentage|1793|1976|pad=1}} || {{percentage|1976|3805927|pad=2}}
+|-
+! scope="row" | {{flag|Rhode Island}}
+| 4,001 
+| 1,545 || 2,678 || 1,034 || 1,324 || 511 || {{percentage|511|1545|pad=1}} || {{percentage|1545|3805927|pad=2}}
+|- class="static-row-numbers-norank"
+! scope="row" | {{flag|U.S. Virgin Islands}}
+| 1,898 
+| 733 || 348 || 134 || 1,550 || 599 || {{percentage|599|733|pad=1}} || {{percentage|733|3805927|pad=2}}
+|- class="static-row-numbers-norank"
+! scope="row" | {{flag|American Samoa}}
+| 1,505 
+| 581 || 198 || 76 || 1,307 || 505 || {{percentage|505|581|pad=1}} || {{percentage|581|3805927|pad=2}}
+|- class="static-row-numbers-norank"
+! scope="row" | {{flag|Guam}}
+| 1,478 
+| 571 || 543 || 210 || 935 || 361 || {{percentage|361|571|pad=1}} || {{percentage|571|3805927|pad=2}}
+|- class="static-row-numbers-norank"
+! scope="row" | {{flag|District of Columbia}}
+| 177 
+| 68 || 158 || 61 || 19 || 7 || {{percentage|7|68|pad=1}} || {{percentage|68|3805927|pad=2}}
+|- class="static-row-numbers-norank"
+! scope="row" | ''{{noflag|[[United States Minor Outlying Islands|Minor Outlying Islands]]}}''<ref name=2000census>{{cite web | url=https://www.census.gov/content/dam/Census/library/publications/2003/dec/phc3-us-pt1.pdf
+ | title=United States Summary: 2000, Population and Housing Unit Counts | publisher=United States Census Bureau | page=1 (Table 1) | date=April 2004 | access-date=December 28, 2023 |archive-url = https://web.archive.org/web/20170203055053/https://www.census.gov/content/dam/Census/library/publications/2003/dec/phc3-us-pt1.pdf
+ |archive-date = 3 Feb 2017}}</ref>{{#tag:ref|Areas were not published in the 2010 census, unlike previous years, as the U.S. Census Bureau no longer collects data on the Minor Outlying Islands.<ref>{{cite web|url=https://www2.census.gov/library/publications/decennial/2010/cph-2/cph-2-1.pdf
+ |title=United States Summary: 2010, Population and Housing Unit Counts|publisher=[[United States Census Bureau]]|pages=V–2, 1 & 41 (Tables 1 & 18)|date=September 2012|access-date=February 7, 2014}}</ref>|group=lower-alpha}}
+| 41 
+| 16 || 41 || 16 || 0 || 0 || {{percentage|0|16|pad=1}} || {{percentage|16|3805927|pad=2}}
+|- class="sortbottom static-row-header"
+! scope="row" | ''{{noflag|[[Contiguous US]]}}''
+| ''8,081,869'' 
+| ''3,120,428'' || ''7,653,006'' || ''2,954,843'' || ''428,865'' || ''165,589'' || ''{{percentage|165589|3120428|pad=1}}'' || ''{{percentage|3120428|3805927|pad=2}}''
+|- class="sortbottom static-row-header"
+! scope="row" | ''{{noflag|50 States}}''
+| ''9,833,342'' 
+| ''3,796,676'' || ''9,147,436'' || ''3,531,846'' || ''685,907'' || ''264,834'' || ''{{percentage|264834|3796676|pad=1}}'' || ''{{percentage|3796676|3805927|pad=2}}''
+|- class="sortbottom static-row-header"
+! scope="row" | ''{{noflag|50 States and DC}}''
+| ''9,833,519'' 
+| ''3,796,744'' || ''9,147,594'' || ''3,531,907'' || ''685,926'' || ''264,841'' || ''{{percentage|264841|3796744|pad=1}}'' || ''{{percentage|3796744|3805927|pad=2}}''
+|- class="sortbottom static-row-header"
+! scope="row" | '''{{flag|United States}}'''
+| '''9,857,306''' 
+| '''3,805,927''' || '''9,158,022''' || '''3,535,932''' || '''699,284''' || '''269,995''' || '''{{percentage|269995|3805927|pad=1}}''' || '''{{percentage|3805927|3805927|pad=2}}'''
+|}
+
+<gallery mode="packed" heights="120">
+File:US States by Total Area.svg|U.S. states by total area
+File:US States by Total Land Area.svg|U.S. states by land area
+File:US States by Water Area.svg|U.S. states by water area
+File:US States by Water Percentage.svg|U.S. states by water percentage
+File:Map of USA AK full.png|[[Alaska]] is the largest state by total area, land area, and water area. It is the [[List of first-level administrative divisions by area|seventh-largest country division in the world]].
+File:Alaska area compared to conterminous US.svg|The area of Alaska is {{percentage|665384.04|3796742.22|0}} of the area of the United States and equivalent to {{percentage|665384.04|3120426.47|0}} of the area of the [[contiguous United States]].
+File:Texas in United States.svg|The second largest state, [[Texas]], has {{percentage|268596.46|665384.04|0}} of the total area of the largest state, Alaska.
+File:Rhode Island in United States (zoom) (extra close).svg|[[Rhode Island]] is the smallest state by total area and land area.
+File:Map of California highlighting San Bernardino County.svg|[[San Bernardino County, California|San Bernardino County]] is the largest [[county (United States)|county]] in the [[Contiguous United States|contiguous U.S.]] and is larger than each of the nine smallest states.
+File:STS-95 Florida From Space.jpg|[[Florida]] is mostly a peninsula, and has the third-largest water area and seventh-largest water area percentage.
+</gallery>
+
+== See also ==
+{{portal|Geography|United States}}
+* [[List of Canadian provinces and territories by area]]
+* [[List of European countries by area]]
+* [[Lists of political and geographic subdivisions by total area]]
+* [[List of first-level administrative divisions by area]]
+* [[List of United States cities by area|List of U.S. cities by area]]
+* [[List of states and territories of the United States by population|List of U.S. states and territories by population]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+{{USStateLists}}
+
+{{DEFAULTSORT:U.S. states and territories by area}}
+[[Category:United States geography-related lists|States by area]]
+[[Category:Lists of subdivisions of the United States|States by area]]
+[[Category:Lists of states of the United States|Area]]
+[[Category:Lists by area]]
+[[Category:Ranked lists of country subdivisions|United States, area]]

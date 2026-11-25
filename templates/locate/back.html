@@ -1,0 +1,176 @@
+<div class="stage">
+	<div class="land">{{Map}}</div>
+	<div class="details">
+		<div class="head">
+			<div class="name">{{Name}}</div>
+			<div class="abbr">{{Abbreviation}}</div>
+		</div>
+		<div class="region">{{Region}}</div>
+		<table>
+			{{#Capital}}
+			<tr>
+				<td class="k">Capital</td>
+				<td>{{Capital}}</td>
+			</tr>
+			{{/Capital}}
+			{{#Largest City}}
+			<tr>
+				<td class="k">Largest city</td>
+				<td>{{Largest City}}</td>
+			</tr>
+			{{/Largest City}}
+			{{#Borders}}
+			<tr>
+				<td class="k">Borders</td>
+				<td>{{Borders}}</td>
+			</tr>
+			{{/Borders}}
+			{{#Nickname}}
+			<tr>
+				<td class="k">Nickname</td>
+				<td>{{Nickname}}</td>
+			</tr>
+			{{/Nickname}}
+			{{#Statehood}}
+			<tr>
+				<td class="k">Statehood</td>
+				<td>{{Statehood}}</td>
+			</tr>
+			{{/Statehood}}
+			{{#Population}}
+			<tr>
+				<td class="k">Population</td>
+				<td>{{Population}}</td>
+			</tr>
+			{{/Population}}
+			{{#GDP}}
+			<tr>
+				<td class="k">GDP</td>
+				<td>{{GDP}}</td>
+			</tr>
+			{{/GDP}}
+			{{#GDP per Capita}}
+			<tr>
+				<td class="k">GDP per capita</td>
+				<td>{{GDP per Capita}}</td>
+			</tr>
+			{{/GDP per Capita}}
+			{{#Land Area}}
+			<tr>
+				<td class="k">Land area</td>
+				<td>{{Land Area}}</td>
+			</tr>
+			{{/Land Area}}
+			{{#Density}}
+			<tr>
+				<td class="k">Density</td>
+				<td>{{Density}}</td>
+			</tr>
+			{{/Density}}
+			{{#Governor}}
+			<tr>
+				<td class="k">Governor</td>
+				<td>{{Governor}}</td>
+			</tr>
+			{{/Governor}}
+			{{#Party}}
+			<tr>
+				<td class="k">Party</td>
+				<td>{{Party}}</td>
+			</tr>
+			{{/Party}}
+		</table>
+		{{#As Of}}
+		<div class="asof">Data as of {{As Of}}</div>
+		{{/As Of}}
+	</div>
+</div>
+<script>
+	(function () {
+		var s = document.querySelector(".stage");
+		if (!s) return;
+		// dh, dw: height of the details panel along the bottom, or width of the one floating at the side (0 when absent); the map is centred in the space left over.
+		function boxFit(vw, vh, b, k, dh, dw) {
+			var bw = b[2] - b[0],
+				bh = b[3] - b[1],
+				ev = vh - dh,
+				ew = vw - dw,
+				side = Math.min((ew * k) / bw, (ev * k) / bh);
+			if (b[4])
+				side = Math.min(
+					side,
+					(b[5] ? Math.min(vw, vh) : Math.max(vw, vh)) / b[4],
+				);
+			side = Math.max(side, vw, vh);
+			return {
+				side: side,
+				left: dw
+					? Math.min(0, Math.max(vw - side, ew / 2 - (b[0] + bw / 2) * side))
+					: vw / 2 - (b[0] + bw / 2) * side,
+				top: dh
+					? Math.min(0, Math.max(vh - side, ev / 2 - (b[1] + bh / 2) * side))
+					: vh / 2 - (b[1] + bh / 2) * side,
+			};
+		}
+		// [height, width] the details panel takes from the stage: a full-width block at the bottom, or a card floating at the right.
+		function panelInset() {
+			var d = s.querySelector(".details");
+			if (!d) return [0, 0];
+			var q = d.getBoundingClientRect(),
+				p = s.getBoundingClientRect();
+			if (q.width >= s.clientWidth * 0.9)
+				return [q.top - p.top > s.clientHeight * 0.4 ? p.bottom - q.top : 0, 0];
+			return [0, q.left - p.left > s.clientWidth * 0.4 ? p.right - q.left : 0];
+		}
+		function g() {
+			var im = s.querySelector("img[data-box]");
+			if (!im) return;
+			var b = im.getAttribute("data-box").split(",").map(Number),
+				r = boxFit(s.clientWidth, s.clientHeight, b, 0.92, panelInset()[0], panelInset()[1]),
+				t = im.style;
+			s.style.overflow = "hidden";
+			t.position = "absolute";
+			t.maxWidth = "none";
+			t.maxHeight = "none";
+			t.objectFit = "fill";
+			t.width = t.height = r.side + "px";
+			t.left = r.left + "px";
+			t.top = r.top + "px";
+		}
+		if (s.querySelector(".details")) {
+			var n = /night/i.test(
+					document.body.className + document.documentElement.className,
+				),
+				c = n ? "#1c2228" : "#f7fafc";
+			document.documentElement.style.background = c;
+			document.body.style.background = c;
+		}
+		function f() {
+			var d =
+				window.matchMedia &&
+				window.matchMedia("(hover:hover) and (pointer:fine)").matches;
+			if (d) {
+				s.style.height = "";
+				s.style.paddingBottom = "";
+				return;
+			}
+			var h = Math.max(
+				window.innerHeight || 0,
+				document.documentElement.clientHeight || 0,
+				(window.visualViewport && window.visualViewport.height) || 0,
+			);
+			s.style.height = h + "px";
+			s.style.paddingBottom = "0";
+		}
+		function h() {
+			f();
+			g();
+		}
+		h();
+		window.addEventListener("resize", h);
+		window.addEventListener("orientationchange", h);
+		window.addEventListener("load", h);
+		setTimeout(h, 150);
+		setTimeout(h, 600);
+	})();
+</script>
