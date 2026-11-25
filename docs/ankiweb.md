@@ -1,8 +1,7 @@
-# Studying the US Map
+# 🌎 Studying the US Map
 
 ![Version](https://img.shields.io/static/v1?label=version&message=1.0.0&color=blue) <!-- x-release-please-version -->
-![States](https://img.shields.io/static/v1?label=states&message=50&color=brightgreen) ![Cards](https://img.shields.io/static/v1?label=cards&message=50&color=orange) ![Maps](https://img.shields.io/static/v1?label=maps&message=SVG&color=informational)
-[![Source](https://img.shields.io/static/v1?label=source&message=GitHub&logo=github&color=181717)](https://github.com/jackindisguise/studying-the-us-map)
+![States](https://img.shields.io/static/v1?label=states&message=50&color=brightgreen) ![Cards](https://img.shields.io/static/v1?label=cards&message=50&color=orange) ![Maps](https://img.shields.io/static/v1?label=maps&message=SVG&color=informational) [![Source](https://img.shields.io/static/v1?label=source&message=GitHub&logo=github&color=181717)](https://github.com/jackindisguise/studying-the-us-map)
 
 **Learn where every U.S. state is, and a few facts about each one.**
 50 states, one note each.
