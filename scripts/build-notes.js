@@ -5,7 +5,7 @@ import fs from 'node:fs';
 
 const DECK = 'Studying the US Map', MODEL = 'State Map', TAG = 'us-map';
 const ORDER = ['Northeast', 'South', 'Midwest', 'West'];
-const FIELDS = ['Name', 'Map', 'Abbreviation', 'Capital', 'Region', 'Largest City', 'Population', 'GDP', 'GDP per Capita', 'Land Area', 'Density', 'Statehood', 'Nickname', 'Governor', 'Party', 'Borders', 'As Of', 'ID'];
+const FIELDS = ['Name', 'Map', 'Abbreviation', 'Capital', 'Region', 'Largest City', 'Population', 'GDP', 'GDP per Capita', 'Land Area', 'Density', 'Statehood', 'Nickname', 'Governor', 'Party', 'Borders', 'As Of', 'ID', 'IPA', 'Respelling'];
 
 // Most populous first (Population is formatted text like '39,355,309 (#1/50)'); Anki shows new cards in this order.
 const pop = (r) => Number(r.Population.split(' (')[0].replace(/\D/g, ''));

@@ -1,0 +1,1499 @@
+{
+ "AL": {
+  "title": "Alabama",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌæl.əˈbæm.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "CA"
+    ],
+    "ipa": [
+     "/ˌæl.əˈbæm.ə/",
+     "[ˌæl.əˈbɛəm.ə]"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˌæl.əˈbæm.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Indic"
+    ],
+    "ipa": [
+     "/ələˈbɑmɑ/",
+     "/ˈaləbɑmɑ/",
+     "/-bamɑ/"
+    ]
+   }
+  ]
+ },
+ "AK": {
+  "title": "Alaska",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/əˈlæskə/",
+     "[əˈlæskə]"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/əˈlæs.kə/",
+     "[əˈlæs.kʰə]"
+    ]
+   }
+  ]
+ },
+ "AZ": {
+  "title": "Arizona",
+  "lines": [
+   {
+    "labels": [
+     "GenAm"
+    ],
+    "ipa": [
+     "/ˌæɹɪˈzoʊnə/",
+     "/ˌɛɹɪˈzoʊnə/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌæɹɪˈzəʊnə/"
+    ]
+   }
+  ]
+ },
+ "AR": {
+  "title": "Arkansas",
+  "lines": [
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˈɑɹkənˌsɔ/",
+     "/-ɑ/",
+     "/ɑɹˈkænzəs/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈɑːkənˌsɔː/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈɑːkənˌsoː/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈɐːkənˌsoː/"
+    ]
+   }
+  ]
+ },
+ "CA": {
+  "title": "California",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌkæləˈfoɹnjə/",
+     "/ˌkæləˈfoɹni.ə/",
+     "/ˌkælɪˈfoɹnjə/",
+     "/ˌkælɪˈfoɹni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌkælɪˈfɔː.ni.ə/",
+     "/ˌkæləˈfɔː.ni.ə/",
+     "/-njə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌkalɪˈfoːnɪjə/",
+     "/-njə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌkalɪˈfɔɾne.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "India"
+    ],
+    "ipa": [
+     "/ˈkæː.lɪ.ˈfoː(r).n(ɪ.)jɑː/",
+     "/kə.lɪˈfoː(r).n(ɪ.)jɑː/"
+    ]
+   },
+   {
+    "labels": [
+     "early 20th century <<GA>>",
+     "near-<<obsolete>>"
+    ],
+    "ipa": [
+     "/ˌkælɪˈfɔɹnjə/",
+     "/-ni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "19th century <<RP>>"
+    ],
+    "ipa": [
+     "/ˌkælɪˈfɔːnɪ.ə/"
+    ]
+   }
+  ]
+ },
+ "CO": {
+  "title": "Colorado",
+  "lines": [
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/kɑləˈɹɑdoʊ/",
+     "/kɑləˈɹædoʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/kɒləˈɹɑːdəʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "obsolete"
+    ],
+    "ipa": [
+     "/kɒləˈɹeɪdoʊ/"
+    ]
+   }
+  ]
+ },
+ "CT": {
+  "title": "Connecticut",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/kəˈnɛt.ɪ.kət/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "CA"
+    ],
+    "ipa": [
+     "/kəˈnɛt.ɪ.kət/",
+     "[kəˈnɛɾ.ɪ.kət]"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/kəˈnet.ɪ.kət/",
+     "[kəˈneɾ.ɪ.kət]"
+    ]
+   }
+  ]
+ },
+ "DE": {
+  "title": "Delaware",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˈdɛləweə(ɹ)/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈdɛləwɛɹ/"
+    ]
+   }
+  ]
+ },
+ "FL": {
+  "title": "Florida",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈfloɹɪdə/",
+     "/ˈfloɹədə/",
+     "/ˈfloɹdə/"
+    ]
+   },
+   {
+    "labels": [
+     "Boston",
+     "RP"
+    ],
+    "ipa": [
+     "/ˈflɒɹɪdə/",
+     "/ˈflɒɹədə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB",
+     "AU"
+    ],
+    "ipa": [
+     "/ˈflɔɹɪdə/",
+     "/ˈflɔɹədə/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈflɑɹɪdə/"
+    ]
+   },
+   {
+    "labels": [
+     "Indic"
+    ],
+    "ipa": [
+     "/ˈflorɪɖɑ/",
+     "/ˈflɔ-/"
+    ]
+   }
+  ]
+ },
+ "GA": {
+  "title": "Georgia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈd͡ʒɔː.d͡ʒə/"
+    ]
+   },
+   {
+    "labels": [
+     "GenAm"
+    ],
+    "ipa": [
+     "/ˈd͡ʒɔɹ.d͡ʒə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈd͡ʒɔɾ.d͡ʒə/"
+    ]
+   },
+   {
+    "labels": [
+     "Southern US"
+    ],
+    "ipa": [
+     "/ˈd͡ʒɔʊ.d͡ʒə/"
+    ]
+   }
+  ]
+ },
+ "HI": {
+  "title": "Hawaii",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/həˈwaɪ.i/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/həˈwaɪ.i/",
+     "/həˈwɑ.i/",
+     "/həˈwɔ.i/",
+     "[hʊ̈ˈwaɪ̯(j)i]",
+     "[hʊ̈ˈwɑ(j)i]",
+     "[hʊ̈ˈwɔ(j)i]"
+    ]
+   },
+   {
+    "labels": [
+     "Hawaii",
+     "also"
+    ],
+    "ipa": [
+     "/həˈvaɪʔi/",
+     "/həˈvɑːʔi/"
+    ]
+   }
+  ]
+ },
+ "ID": {
+  "title": "Idaho",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈaɪdəhəʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˈaɪdəˌhoʊ/"
+    ]
+   }
+  ]
+ },
+ "IL": {
+  "title": "Illinois",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌɪləˈnɔɪ/",
+     "/ˌɪlɪˈnɔɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "nonstandard"
+    ],
+    "ipa": [
+     "/ˌɪləˈnɔɪz/"
+    ]
+   }
+  ]
+ },
+ "IN": {
+  "title": "Indiana",
+  "lines": [
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˌɪndiˈænə/",
+     "[ˌɪndiˈeə̯nə]",
+     "[ˌɪndiˈɛə̯nə]"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌɪndiˈænə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌɪndɪjˈanə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˌɪndiˈæːnə/",
+     "[ˌɪndiˈæːnə]",
+     "[ˌɪndiˈɛːnə]",
+     "[ˌɪndiˈeːnə]"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˌəndiˈɛnə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌɪndeˈanə/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ˌɪndiˈanə/"
+    ]
+   }
+  ]
+ },
+ "IA": {
+  "title": "Iowa",
+  "lines": [
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈaɪəwə/",
+     "/ˈaɪəweɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈaɪəweɪ/"
+    ]
+   }
+  ]
+ },
+ "KS": {
+  "title": "Kansas",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈkænzəs/"
+    ]
+   }
+  ]
+ },
+ "KY": {
+  "title": "Kentucky",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/kənˈtʌki/"
+    ]
+   },
+   {
+    "labels": [
+     "RP",
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/kɛnˈtʌki/"
+    ]
+   },
+   {
+    "labels": [
+     "Northern England",
+     "Ireland"
+    ],
+    "ipa": [
+     "/kɛnˈtʊki/"
+    ]
+   }
+  ]
+ },
+ "LA": {
+  "title": "Louisiana",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/luːˌiːziˈænə/",
+     "/ləˌwiːziˈænə/"
+    ]
+   },
+   {
+    "labels": [
+     "Southern US"
+    ],
+    "ipa": [
+     "/ˌluːziˈænə/"
+    ]
+   }
+  ]
+ },
+ "ME": {
+  "title": "Maine",
+  "lines": [
+   {
+    "labels": [
+     "UK",
+     "US"
+    ],
+    "ipa": [
+     "/meɪn/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/mɛn/",
+     "/meɪn/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/mɛːn/"
+    ]
+   }
+  ]
+ },
+ "MD": {
+  "title": "Maryland",
+  "lines": [
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈmɛəɹɪlənd/",
+     "/ˈmɛɹɪlənd/",
+     "/ˈmæɹɪlənd/",
+     "/ˈmɛɹlən/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈmɛəɹilænd/",
+     "/ˈmɛəɹɪlənd/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈmɛːɹɪjland/",
+     "/ˈmɛːɹɪlənd/"
+    ]
+   }
+  ]
+ },
+ "MA": {
+  "title": "Massachusetts",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌmæsəˈt͡ʃuːsɪts/"
+    ]
+   },
+   {
+    "labels": [
+     "also",
+     "New England"
+    ],
+    "ipa": [
+     "/ˌmæsəˈtʃuzɪts/"
+    ]
+   }
+  ]
+ },
+ "MI": {
+  "title": "Michigan",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈmɪʃəɡɪn/",
+     "/ˈmɪʃɪɡən/"
+    ]
+   }
+  ]
+ },
+ "MN": {
+  "title": "Minnesota",
+  "lines": [
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌmɪnɪˈsoʊtə/",
+     "[ˌmɪnɪˈsoʊɾə]"
+    ]
+   }
+  ]
+ },
+ "MS": {
+  "title": "Mississippi",
+  "lines": [
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˌmɪsɪˈsɪpi/"
+    ]
+   },
+   {
+    "labels": [
+     "Southern US",
+     "conservatively"
+    ],
+    "ipa": [
+     "/ˌmɪsɪˈsɪpɪ/"
+    ]
+   }
+  ]
+ },
+ "MO": {
+  "title": "Missouri",
+  "lines": [
+   {
+    "labels": [
+     "GenAm"
+    ],
+    "ipa": [
+     "/mɪˈzʊɹi/",
+     "/mə-/"
+    ]
+   },
+   {
+    "labels": [
+     "Missouri"
+    ],
+    "ipa": [
+     "/mɪˈzʊɹi/",
+     "/mɪˈzɜɹi/",
+     "/mɪˈzɜɹə/",
+     "/mə-/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/mɪˈzʊəɹi/",
+     "/mɪˈzɔːɹi/"
+    ]
+   }
+  ]
+ },
+ "MT": {
+  "title": "Montana",
+  "lines": [
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/mɑnˈtænə/"
+    ]
+   }
+  ]
+ },
+ "NE": {
+  "title": "Nebraska",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "GA"
+    ],
+    "ipa": [
+     "/nəˈbɹæs.kə/"
+    ]
+   }
+  ]
+ },
+ "NV": {
+  "title": "Nevada",
+  "lines": [
+   {
+    "labels": [
+     "US",
+     "Western US",
+     "especially Nevada"
+    ],
+    "ipa": [
+     "/nɪˈvædə/",
+     "/nəˈvædə/",
+     "[nəˈvæɾə]"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "Eastern US"
+    ],
+    "ipa": [
+     "/nɪˈvɑdə/",
+     "/nəˈvɑdə/",
+     "[nəˈvɑɾə]"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "uncommon",
+     "in reference to the towns"
+    ],
+    "ipa": [
+     "/nəˈveɪdə/"
+    ]
+   },
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/nəˈvɑːdə/",
+     "/nɪˈvɑːdə/"
+    ]
+   }
+  ]
+ },
+ "NH": {
+  "title": "New Hampshire",
+  "lines": [
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/nuːˈhæmpʃɚ/"
+    ]
+   }
+  ]
+ },
+ "NJ": {
+  "title": "New Jersey",
+  "lines": [
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/nuˈdʒɝzi/",
+     "/njuˈdʒɝzi/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/njuː ˈdʒɜːzi/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/njʉː ˈdʒɜːzi/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/njʉ ˈd͡ʒɛrze/",
+     "/-ˈd͡ʒɛrzɪ/",
+     "/-ˈd͡ʒɛrzi/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/njʉː ˈd͡ʒøːzi/"
+    ]
+   }
+  ]
+ },
+ "NM": {
+  "title": "New Mexico",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/njuː mɛk.sɪ.kəʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/nu ˈmɛk.sɪ.koʊ/",
+     "/nju ˈmɛk.sɪ.koʊ/"
+    ]
+   }
+  ]
+ },
+ "NY": {
+  "title": "New York",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌnjuː ˈjɔːk/"
+    ]
+   },
+   {
+    "labels": [
+     "GA",
+     "CA"
+    ],
+    "ipa": [
+     "/ˌnju ˈjɔɹk/",
+     "/ˌnu -/"
+    ]
+   },
+   {
+    "labels": [
+     "NYC",
+     "AAVE"
+    ],
+    "ipa": [
+     "[ˌnu ˈjɔək]",
+     "[ˌnʊu̯ ˈjɔo̯k]"
+    ]
+   },
+   {
+    "labels": [
+     "New York Latino English"
+    ],
+    "ipa": [
+     "[ˌnu ˈjoək]"
+    ]
+   }
+  ]
+ },
+ "NC": {
+  "title": "North Carolina",
+  "lines": [
+   {
+    "labels": [
+     "nMmmm"
+    ],
+    "ipa": [
+     "/ˌnɔɹθ kæɹəˈlaɪnə/"
+    ]
+   },
+   {
+    "labels": [
+     "Mmmm"
+    ],
+    "ipa": [
+     "/ˌnɔɹθ kɛɹəˈlaɪnə/"
+    ]
+   },
+   {
+    "labels": [
+     "rhotic"
+    ],
+    "ipa": [
+     "[ˌnɔɹθ kæɹəˈlaːnə]"
+    ]
+   },
+   {
+    "labels": [
+     "non-rhotic"
+    ],
+    "ipa": [
+     "[ˌnɔːθ kæɹəˈlaːnə]",
+     "[ˌnɔːθ kæəˈlaːnə]"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌnɔːθ kæɹəˈlaɪnə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌnoːθ kaɹəˈlɑjnə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌnɔɾθ kaɾəˈlʌɪnə/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ˌnɔːθ kaɾəˈlaɪnə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˌnoːθ kæɹəˈlɑenə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˌnoːθ kɛɹəˈlɑenə/"
+    ]
+   }
+  ]
+ },
+ "ND": {
+  "title": "North Dakota",
+  "lines": [
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈnɔɹθ dəˈkoʊ.tə/"
+    ]
+   }
+  ]
+ },
+ "OH": {
+  "title": "Ohio",
+  "lines": [
+   {
+    "labels": [
+     "GenAm"
+    ],
+    "ipa": [
+     "/oʊˈhaɪoʊ/",
+     "/əˈhaɪoʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/əˈhaɪəʊ/",
+     "/əʊˈhʌɪəʊ/"
+    ]
+   }
+  ]
+ },
+ "OK": {
+  "title": "Oklahoma",
+  "lines": [
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˌoʊ.kləˈhoʊ.mə/"
+    ]
+   }
+  ]
+ },
+ "OR": {
+  "title": "Oregon",
+  "lines": [
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˈɔɹɪɡən/",
+     "/ˈɔɹəɡɪn/",
+     "/ˈɔɹɪɡɑn/"
+    ]
+   },
+   {
+    "labels": [
+     "NYC"
+    ],
+    "ipa": [
+     "/ˈɑɹɪɡən/"
+    ]
+   },
+   {
+    "labels": [
+     "Oregon",
+     "Washington",
+     "California",
+     "in casual speech"
+    ],
+    "ipa": [
+     "/ˈɔɹɡən/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈɒɹɪɡən/"
+    ]
+   }
+  ]
+ },
+ "PA": {
+  "title": "Pennsylvania",
+  "lines": [
+   {
+    "labels": [
+     "UK",
+     "US"
+    ],
+    "ipa": [
+     "/ˌpɛn.sɪlˈveɪ.ni.ə/",
+     "/ˌpɛn.sɪlˈveɪn.jə/"
+    ]
+   },
+   {
+    "labels": [
+     "weak vowel"
+    ],
+    "ipa": [
+     "/ˌpɛn.səlˈveɪ.ni.ə/",
+     "/ˌpɛn.səlˈveɪn.jə/"
+    ]
+   }
+  ]
+ },
+ "RI": {
+  "title": "Rhode Island",
+  "lines": [
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˌɹoʊd ˈaɪ.lənd/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌɹəʊd ˈaɪ.lənd/"
+    ]
+   }
+  ]
+ },
+ "SC": {
+  "title": "South Carolina",
+  "lines": [
+   {
+    "labels": [
+     "Mmmm"
+    ],
+    "ipa": [
+     "/ˌsaʊθ kɛɹəˈlaɪnə/"
+    ]
+   },
+   {
+    "labels": [
+     "nMmmm"
+    ],
+    "ipa": [
+     "/ˌsaʊθ kæɹəˈlaɪnə/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌsaʊθ kæɹəˈlaɪnə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌsawθ kaɹəˈlɑjnə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌsʌʊθ kaɾəˈlʌɪnə/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ˌsaʊθ kaɾəˈlaɪnə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˌsæɔθ kæɹəˈlɑenə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˌsæʊθ kɛɹəˈlɑenə/"
+    ]
+   }
+  ]
+ },
+ "SD": {
+  "title": "South Dakota",
+  "lines": [
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈsaʊθ dəˈkoʊ.tə/"
+    ]
+   }
+  ]
+ },
+ "TN": {
+  "title": "Tennessee",
+  "lines": [
+   {
+    "labels": [
+     "GA",
+     "RP"
+    ],
+    "ipa": [
+     "/ˌtɛnəˈsiː/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "pin-pen"
+    ],
+    "ipa": [
+     "/ˌtɪnəˈsiː/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˌtenəˈsiː/"
+    ]
+   }
+  ]
+ },
+ "TX": {
+  "title": "Texas",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "GA",
+     "CA"
+    ],
+    "ipa": [
+     "/ˈtɛk.səs/"
+    ]
+   },
+   {
+    "labels": [
+     "locally in the US"
+    ],
+    "ipa": [
+     "/ˈtɛk.sɪs/",
+     "/ˈtɛk.sɪz/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈtek.səs/"
+    ]
+   }
+  ]
+ },
+ "UT": {
+  "title": "Utah",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈjuːˌtɑː/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈjuːˌtɔː/"
+    ]
+   }
+  ]
+ },
+ "VT": {
+  "title": "Vermont",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/vəˈmɒnt/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/vɚˈmɑnt/",
+     "[vɚˈmɑn(ʔ)t̚]"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "Vermont"
+    ],
+    "ipa": [
+     "[vɚˈmɑ̃ʔ]"
+    ]
+   },
+   {
+    "labels": [
+     "obsolete",
+     "nonstandard"
+    ],
+    "ipa": [
+     "/vəɹˈmaʊnt/"
+    ]
+   },
+   {
+    "labels": [
+     "UK",
+     "Melbourne suburb"
+    ],
+    "ipa": [
+     "/ˈvɜːmɒnt/"
+    ]
+   }
+  ]
+ },
+ "VA": {
+  "title": "Virginia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/vəˈd͡ʒɪn.jə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/vɚˈd͡ʒɪn.jə/"
+    ]
+   }
+  ]
+ },
+ "WA": {
+  "title": "Washington",
+  "lines": [
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˈwɑʃɪŋtən/",
+     "/ˈwɔʃɪŋtən/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "r-insertion"
+    ],
+    "ipa": [
+     "/wɔɹʃɪŋtən/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈwɒʃɪŋtən/"
+    ]
+   }
+  ]
+ },
+ "WV": {
+  "title": "West Virginia",
+  "lines": [
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈwɛst vɚˈdʒɪn.jə/"
+    ]
+   }
+  ]
+ },
+ "WI": {
+  "title": "Wisconsin",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/wəˈskɑnsən/",
+     "[wəˈskɑn.sn̩]"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/wəsˈkɑnsən/",
+     "[wəsˈkʰɑn.sn̩]"
+    ]
+   },
+   {
+    "labels": [
+     "informal"
+    ],
+    "ipa": [
+     "/wɪnˈskɑnsən/"
+    ]
+   },
+   {
+    "labels": [
+     "non-weak vowel"
+    ],
+    "ipa": [
+     "/wɪsˈkɑnsɪn/"
+    ]
+   }
+  ]
+ },
+ "WY": {
+  "title": "Wyoming",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/waɪˈəʊmɪŋ/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/waɪˈoʊmɪŋ/"
+    ]
+   }
+  ]
+ }
+}

@@ -6,7 +6,9 @@
 	"description": "Scripts and data to generate the notes and map images for the US Map Anki deck.",
 	"scripts": {
 		"fetch": "node scripts/fetch-all.js",
-		"fetch:refresh": "node scripts/fetch-all.js --refresh",
+		"fetch:refresh": "node scripts/fetch-all.js --refresh && npm run pronunciation:refresh",
+		"pronunciation": "node scripts/pronunciation.js",
+		"pronunciation:refresh": "node scripts/pronunciation.js --refresh",
 		"records": "node scripts/build-records.js",
 		"render": "node scripts/render-all.js",
 		"notes": "node scripts/build-notes.js",

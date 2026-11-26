@@ -35,6 +35,7 @@ The cards fill the screen on a phone too: the map on top, and the details below 
 
 ## What the back of the card shows
 - **Name**, abbreviation and region
+- **Pronunciation:** the IPA, with a plain-English respelling under it
 - **Capital** and **largest city**
 - **Borders**
 - **Nickname** and **statehood date**
@@ -42,6 +43,22 @@ The cards fill the screen on a phone too: the map on top, and the details below 
 - **Ranked numbers:** population, GDP, GDP per capita, land area and density
 
 > Ranked values show the state's rank among the 50, like *6,012,561 (#20/50)*.
+
+---
+
+## Pronunciation
+Each state shows how its name is said in US English, in two forms:
+
+> **Wyoming**
+>
+> /waɪˈoʊmɪŋ/
+>
+> wy-OH-ming
+
+In the respelling, hyphens separate the syllables and the stressed one is in capitals.
+
+- **Vowels:** *a* cat, *ah* father, *air* care, *ar* start, *aw* thought, *ay* face, *e* bed, *ee* see, *eer* near, *er* nurse, *ai* price (written *y* after a consonant, as in *wy-OH-ming*), *i* kit, *oh* goat, *oo* goose, *oor* poor, *or* north, *ow* mouth, *oy* choice, *uh* strut, *uu* foot
+- **Consonants:** *ch*, *j*, *sh*, *zh* (measure), *th* (thin), *dh* (this), *ng*, *y* (yes); the rest are as written
 
 ---
 
@@ -59,6 +76,7 @@ Within the deck, states are ordered by population, largest first.
 
 ## Accuracy
 - Population and GDP are for 2025. Governors are those in office in November 2026, so check anything that matters.
+- Names often have more than one accepted pronunciation; only one is shown, and the respelling is generated automatically.
 - Borders are land borders only. States that meet at a single point or across water do not count.
 - For the original 13 states, the statehood date is the date they ratified the Constitution.
 
@@ -68,6 +86,7 @@ Within the deck, states are ordered by population, largest first.
 - **Shapes:** U.S. Census Bureau cartographic boundaries (via us-atlas) and Natural Earth.
 - **Population:** U.S. Census Bureau.
 - **GDP:** Bureau of Economic Analysis.
+- **Pronunciation:** US English IPA from Wiktionary (CC BY-SA); the respelling is generated from it.
 - **Capitals, largest cities, statehood, land area, governors and nicknames:** Wikipedia (CC BY-SA).
 
 ---

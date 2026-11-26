@@ -1,0 +1,202 @@
+{
+ "AL": {
+  "ipa": "/ˌæl.əˈbæm.ə/",
+  "respell": "al-uh-BAM-uh"
+ },
+ "AK": {
+  "ipa": "/əˈlæskə/",
+  "respell": "uh-LAS-kuh"
+ },
+ "AZ": {
+  "ipa": "/ˌæɹɪˈzoʊnə/",
+  "respell": "air-i-ZOH-nuh"
+ },
+ "AR": {
+  "ipa": "/ˈɑɹkənˌsɔ/",
+  "respell": "AR-kuhn-saw"
+ },
+ "CA": {
+  "ipa": "/ˌkæləˈfoɹnjə/",
+  "respell": "ka-luh-FORN-yuh"
+ },
+ "CO": {
+  "ipa": "/kɑləˈɹɑdoʊ/",
+  "respell": "kah-luh-RAH-doh"
+ },
+ "CT": {
+  "ipa": "/kəˈnɛt.ɪ.kət/",
+  "respell": "kuh-NET-i-kuht"
+ },
+ "DE": {
+  "ipa": "/ˈdɛləwɛɹ/",
+  "respell": "DEL-uh-wair"
+ },
+ "FL": {
+  "ipa": "/ˈfloɹɪdə/",
+  "respell": "FLOR-i-duh"
+ },
+ "GA": {
+  "ipa": "/ˈd͡ʒɔɹ.d͡ʒə/",
+  "respell": "JOR-juh"
+ },
+ "HI": {
+  "ipa": "/həˈwaɪ.i/",
+  "respell": "huh-WY-ee"
+ },
+ "ID": {
+  "ipa": "/ˈaɪdəˌhoʊ/",
+  "respell": "AI-duh-hoh"
+ },
+ "IL": {
+  "ipa": "/ˌɪləˈnɔɪ/",
+  "respell": "i-luh-NOY"
+ },
+ "IN": {
+  "ipa": "/ˌɪndiˈænə/",
+  "respell": "in-dee-AN-uh"
+ },
+ "IA": {
+  "ipa": "/ˈaɪəwə/",
+  "respell": "AI-uh-wuh"
+ },
+ "KS": {
+  "ipa": "/ˈkænzəs/",
+  "respell": "KAN-zuhs"
+ },
+ "KY": {
+  "ipa": "/kənˈtʌki/",
+  "respell": "kuhn-TUHK-ee"
+ },
+ "LA": {
+  "ipa": "/luːˌiːziˈænə/",
+  "respell": "loo-ee-zee-AN-uh"
+ },
+ "ME": {
+  "ipa": "/meɪn/",
+  "respell": "mayn"
+ },
+ "MD": {
+  "ipa": "/ˈmɛəɹɪlənd/",
+  "respell": "MAIR-i-luhnd"
+ },
+ "MA": {
+  "ipa": "/ˌmæsəˈt͡ʃuːsɪts/",
+  "respell": "ma-suh-CHOO-sits"
+ },
+ "MI": {
+  "ipa": "/ˈmɪʃəɡɪn/",
+  "respell": "MISH-uh-gin"
+ },
+ "MN": {
+  "ipa": "/ˌmɪnɪˈsoʊtə/",
+  "respell": "mi-ni-SOH-tuh"
+ },
+ "MS": {
+  "ipa": "/ˌmɪsɪˈsɪpi/",
+  "respell": "mi-si-SIP-ee"
+ },
+ "MO": {
+  "ipa": "/mɪˈzʊɹi/",
+  "respell": "mi-ZOOR-ee"
+ },
+ "MT": {
+  "ipa": "/mɑnˈtænə/",
+  "respell": "mahn-TAN-uh"
+ },
+ "NE": {
+  "ipa": "/nəˈbɹæs.kə/",
+  "respell": "nuh-BRAS-kuh"
+ },
+ "NV": {
+  "ipa": "/nɪˈvædə/",
+  "respell": "ni-VAD-uh"
+ },
+ "NH": {
+  "ipa": "/ˌnu ˈhæmpʃɚ/",
+  "respell": "noo HAMP-sher"
+ },
+ "NJ": {
+  "ipa": "/nuˈdʒɝzi/",
+  "respell": "noo-JER-zee"
+ },
+ "NM": {
+  "ipa": "/nu ˈmɛk.sɪ.koʊ/",
+  "respell": "noo MEK-si-koh"
+ },
+ "NY": {
+  "ipa": "/ˌnu ˈjɔɹk/",
+  "respell": "noo YORK"
+ },
+ "NC": {
+  "ipa": "/ˌnɔɹθ ˌkɛɹəˈlaɪnə/",
+  "respell": "north kair-uh-LY-nuh"
+ },
+ "ND": {
+  "ipa": "/ˈnɔɹθ dəˈkoʊ.tə/",
+  "respell": "NORTH duh-KOH-tuh"
+ },
+ "OH": {
+  "ipa": "/oʊˈhaɪoʊ/",
+  "respell": "oh-HY-oh"
+ },
+ "OK": {
+  "ipa": "/ˌoʊ.kləˈhoʊ.mə/",
+  "respell": "oh-kluh-HOH-muh"
+ },
+ "OR": {
+  "ipa": "/ˈɔɹɪɡən/",
+  "respell": "OR-i-guhn"
+ },
+ "PA": {
+  "ipa": "/ˌpɛn.sɪlˈveɪ.ni.ə/",
+  "respell": "pen-sil-VAY-nee-uh"
+ },
+ "RI": {
+  "ipa": "/ˌɹoʊd ˈaɪ.lənd/",
+  "respell": "rohd AI-luhnd"
+ },
+ "SC": {
+  "ipa": "/ˌsaʊθ ˌkɛɹəˈlaɪnə/",
+  "respell": "sowth kair-uh-LY-nuh"
+ },
+ "SD": {
+  "ipa": "/ˈsaʊθ dəˈkoʊ.tə/",
+  "respell": "SOWTH duh-KOH-tuh"
+ },
+ "TN": {
+  "ipa": "/ˌtɛnəˈsiː/",
+  "respell": "te-nuh-SEE"
+ },
+ "TX": {
+  "ipa": "/ˈtɛk.səs/",
+  "respell": "TEK-suhs"
+ },
+ "UT": {
+  "ipa": "/ˈjuːˌtɑː/",
+  "respell": "YOO-tah"
+ },
+ "VT": {
+  "ipa": "/vɚˈmɑnt/",
+  "respell": "ver-MAHNT"
+ },
+ "VA": {
+  "ipa": "/vɚˈd͡ʒɪn.jə/",
+  "respell": "ver-JIN-yuh"
+ },
+ "WA": {
+  "ipa": "/ˈwɑʃɪŋtən/",
+  "respell": "WAH-shing-tuhn"
+ },
+ "WV": {
+  "ipa": "/ˈwɛst vɚˈdʒɪn.jə/",
+  "respell": "WEST ver-JIN-yuh"
+ },
+ "WI": {
+  "ipa": "/wəˈskɑnsən/",
+  "respell": "wuh-SKAHN-suhn"
+ },
+ "WY": {
+  "ipa": "/waɪˈoʊmɪŋ/",
+  "respell": "wy-OH-ming"
+ }
+}
