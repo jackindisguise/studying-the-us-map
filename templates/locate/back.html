@@ -2,7 +2,10 @@
 	<div class="land">{{Map}}</div>
 	<div class="details">
 		<div class="head">
-			<div class="name">{{Name}}</div>
+			<div class="who">
+				<div class="name">{{Name}}</div>
+				{{#IPA}}<div class="ipa">{{IPA}}</div>{{/IPA}}{{#Respelling}}<div class="say">{{Respelling}}</div>{{/Respelling}}
+			</div>
 			<div class="abbr">{{Abbreviation}}</div>
 		</div>
 		<div class="region">{{Region}}</div>

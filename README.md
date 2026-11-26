@@ -12,7 +12,7 @@ This project holds everything needed to generate the deck's data, maps and packa
 - **States:** the 50 states, without Washington, D.C. or the territories (`data/states.json`).
 - **Notes:** one *State Map* note per state, keyed by its postal code (`US-CO`), most populous first.
 - **Cards:** one per note. *Locate* shows a map with the state highlighted and asks which state it is.
-- **Back of the card:** name, abbreviation, region, capital, largest city, bordering states and countries, nickname, statehood date, population, GDP, GDP per capita, land area, density, governor, party and the year of the data. Empty rows are hidden.
+- **Back of the card:** name, abbreviation, region, capital, largest city, bordering states and countries, nickname, statehood date, population, GDP, GDP per capita, land area, density, governor, party and the year of the data. Under the name is its pronunciation, as IPA and a plain-English respelling. Empty rows are hidden.
 - **Sub-decks:** one per Census region (Northeast, South, Midwest, West).
 - **Maps:** one SVG per state, a north-up Mercator view, with the state in red, the other states in cream and other countries in grey. Alaska and Hawaii use wider views.
 - **Zoom boxes:** states with under 5,000 square miles of land (Connecticut, Delaware and Rhode Island) also get a zoomed-in box (`us-zoom-<state>.svg`) pinned to the top-left of the card, with a scale bar.
@@ -58,6 +58,7 @@ States with very little land (here Rhode Island) also get a zoomed-in box in the
 ## What this project does
 
 - **Collects the data:** takes population from the U.S. Census Bureau, GDP from the Bureau of Economic Analysis and the other facts from Wikipedia, and writes one record per state to `data/records.json`. Each numeric value (population, GDP, GDP per capita, land area, density) carries its rank among the 50 states, as `6,012,561 (#20/50)`; 1 is the highest and ties share a rank.
+- **Adds pronunciation:** takes the US English IPA of each state name from Wiktionary and generates a plain-English respelling from it, with the same key for every state (`data/pronunciation.json`).
 - **Draws the maps:** renders every state's map SVG, and the zoom boxes, into `build/media/`.
 - **Writes the note file:** a single Anki-importable CSV, `build/notes.csv`, with one row per state. It has import headers (note type, deck and tags columns); the Map field holds `<img>` tags that point at the files in `build/media/`, named `us-map-<state>.svg` and `us-zoom-<state>.svg`. Import that folder's files into Anki's media folder as they are.
 - **Builds the package:** bundles the notes, media and card template into an `.apkg`, with a description on each deck.
@@ -69,7 +70,7 @@ States with very little land (here Rhode Island) also get a zoomed-in box in the
 ## Layout
 
 - `scripts/`: data pipeline and map renderer (run everything from the package root).
-- `data/`: committed inputs, which are the state list, the deck descriptions, cached Census/BEA/Natural Earth/Wikipedia sources (`data/raw`) and the derived `records.json`.
+- `data/`: committed inputs, which are the state list, the deck descriptions, cached Census/BEA/Natural Earth/Wikipedia/Wiktionary sources (`data/raw`) and the derived JSON (`pronunciation`, `records`).
 - `templates/`: the Anki card template for the *State Map* note type, in `templates/locate/` (`front.html`, `back.html` and `style.css`).
 - `docs/`: the AnkiWeb page (`ankiweb.md`) and the example images.
 - `build/`: generated output, including `build/media/`, `build/notes.csv`, `build/fit/boxes.json` and the `.apkg`.
@@ -132,6 +133,17 @@ node scripts/build-examples.js RI AK
 
 The first writes the example images into `docs/images/`. With state abbreviations it writes test screenshots (desktop and phone, front and back) into `build/examples/` instead.
 
+### Pronunciation
+
+```
+npm run pronunciation
+npm run records
+```
+
+Builds `data/pronunciation.json` from the cached Wiktionary lines, fetching only states that are missing (`npm run pronunciation:refresh` fetches everything again), then puts it into the records. The US transcription is preferred, and a few states are set by hand in `IPA_OVERRIDES` in `scripts/pronunciation.js`.
+
+The respelling key is at the top of `scripts/respell.js`: syllables are separated by hyphens, the one with the primary stress is in capitals, and the vowel in "price" is `ai` on its own but `y` after a consonant (`wy-OH-ming`). To try a transcription: `node scripts/respell.js "waɪˈoʊmɪŋ"`.
+
 ### Refresh data
 
 ```
@@ -165,6 +177,7 @@ Already cached in `data/raw/`, and only fetched again by the fetch scripts, whic
 - **U.S. Census Bureau:** 2025 population estimates.
 - **Bureau of Economic Analysis:** 2025 GDP by state, in current dollars.
 - **Wikipedia (CC BY-SA):** capital, largest city, statehood date, land area, governors and nicknames.
+- **Wiktionary (CC BY-SA):** US English IPA of the state names; the respelling is generated from it.
 
 Borders are land borders; states that only meet at a corner or across water do not count. For the original 13 states, the statehood date is the date they ratified the Constitution.
 

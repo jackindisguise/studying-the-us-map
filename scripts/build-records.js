@@ -5,6 +5,7 @@ import { STATES, borders } from './geo.js';
 
 const raw = (f) => fs.readFileSync(`data/raw/${f}`, 'utf8');
 const YEAR = 2025;
+const pron = JSON.parse(fs.readFileSync('data/pronunciation.json', 'utf8')); // run scripts/pronunciation.js to refresh
 
 // Hand values for what the sources do not give cleanly.
 const NICKNAME_FIX = { Washington: 'The Evergreen State' }; // unofficial, so not bold in the source
@@ -105,6 +106,7 @@ const data = STATES.map((s) => {
     ID: `US-${s.abbr}`, Name: s.name, Abbreviation: s.abbr, Region: s.region,
     Capital: b.capital || '', 'Largest City': b.largest || '', Borders: next.join(', '), Statehood: b.statehood || '',
     Nickname: nickname(s.name), Governor: g.leader, Party: g.party, 'As Of': String(YEAR),
+    IPA: pron[s.abbr]?.ipa || '', Respelling: pron[s.abbr]?.respell || '',
     _numbers: numbers,
   };
 });
