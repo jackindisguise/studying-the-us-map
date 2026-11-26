@@ -1,6 +1,6 @@
 # 🌎 Studying the US Map
 
-[![Latest release](https://img.shields.io/github/v/release/jackindisguise/studying-the-us-map)](https://github.com/jackindisguise/studying-the-us-map/releases/latest) ![States](https://img.shields.io/static/v1?label=states&message=50&color=brightgreen) ![Cards](https://img.shields.io/static/v1?label=cards&message=50&color=orange) ![Maps](https://img.shields.io/static/v1?label=maps&message=SVG&color=informational) ![Node](https://img.shields.io/static/v1?label=node&message=%E2%89%A522.12&color=339933)
+[![Latest release](https://img.shields.io/github/v/release/jackindisguise/studying-the-us-map)](https://github.com/jackindisguise/studying-the-us-map/releases/latest) ![States](https://img.shields.io/static/v1?label=states&message=50&color=brightgreen) ![Cards](https://img.shields.io/static/v1?label=cards&message=50&color=orange) ![Maps](https://img.shields.io/static/v1?label=maps&message=SVG&color=informational) [![AnkiWeb](https://img.shields.io/static/v1?label=AnkiWeb&message=Shared%20deck&color=0a6cff)](https://ankiweb.net/shared/info/2063358034) ![Node](https://img.shields.io/static/v1?label=node&message=%E2%89%A522.12&color=339933)
 
 **An Anki deck for learning where every U.S. state is, and a few facts about each.**
 This project holds everything needed to generate the deck's data, maps and package.
