@@ -22,35 +22,27 @@ This project holds everything needed to generate the deck's data, maps and packa
 
 ## Examples
 
-Screenshots rendered from the card templates with `node scripts/build-examples.js`.
+Screenshots rendered from the card templates with `node scripts/build-examples.js`, inside a mock Anki window and phone screen.
 
 ### Desktop
 
 **Locate** (Colorado): find the red state, then flip for its facts.
 
-<table>
-<tr><td align="center">Front</td><td align="center">Back</td></tr>
-<tr><td><img src="docs/images/locate-front.png" alt="Locate, front" width="480"></td><td><img src="docs/images/locate-back.png" alt="Locate, back" width="480"></td></tr>
-</table>
+<img src="docs/images/locate.png" alt="Locate: front and back" width="100%">
 
 On the back, the map shifts to the middle of the space beside the details card, so the state isn't hidden behind it.
+
+**Tiny states** (Rhode Island): states with very little land also get a zoomed-in box in the top-left corner, with a scale bar.
+
+<img src="docs/images/zoom.png" alt="Rhode Island with a zoom box: front and back" width="100%">
 
 ### Phone
 
 The map fills the screen, and on the back it shifts up into the middle of the area above the details panel.
 
 <table>
-<tr><td align="center">Locate front</td><td align="center">Locate back</td></tr>
-<tr><td><img src="docs/images/phone-locate-front.png" alt="Locate on a phone, front" width="200"></td><td><img src="docs/images/phone-locate-back.png" alt="Locate on a phone, back" width="200"></td></tr>
-</table>
-
-### Tiny states
-
-States with very little land (here Rhode Island) also get a zoomed-in box in the top-left corner, with a scale bar.
-
-<table>
-<tr><td align="center">Desktop</td><td align="center">Phone</td></tr>
-<tr><td><img src="docs/images/zoom-front.png" alt="Rhode Island with a zoom box" width="480"></td><td><img src="docs/images/phone-zoom-front.png" alt="Rhode Island with a zoom box on a phone" width="200"></td></tr>
+<tr><td align="center">Locate</td><td align="center">Tiny state (Rhode Island)</td></tr>
+<tr><td><img src="docs/images/phone-locate.png" alt="Locate on a phone: front and back" width="420"></td><td><img src="docs/images/phone-zoom.png" alt="Rhode Island with a zoom box on a phone: front and back" width="420"></td></tr>
 </table>
 
 ---

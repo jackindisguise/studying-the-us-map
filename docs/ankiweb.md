@@ -14,14 +14,21 @@
 ### Map to State
 Find the red state on a north-up map, then flip for the answer and its facts.
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/locate-front.png" alt="Locate, front" width="640">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/locate-back.png" alt="Locate, back" width="640">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/locate.png" alt="Locate: front and back" width="900">
+
+### Tiny states
+States with very little land (here Rhode Island) also get a zoomed-in box in the top-left corner, with a scale bar.
+
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/zoom.png" alt="Rhode Island with a zoom box: front and back" width="900">
 
 ### On a phone
 The cards fill the screen on a phone too: the map on top, and the details below it on the back.
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/phone-locate-front.png" alt="Locate on a phone, front" width="240">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/phone-locate-back.png" alt="Locate on a phone, back" width="240">
+#### Map to State
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/phone-locate.png" alt="Locate on a phone: front and back" width="440">
+
+#### Tiny states
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/phone-zoom.png" alt="Rhode Island with a zoom box on a phone: front and back" width="440">
 
 ---
 
