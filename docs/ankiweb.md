@@ -38,7 +38,8 @@ The cards fill the screen on a phone too: the map on top, and the details below 
 - **Pronunciation:** the IPA, with a plain-English respelling under it
 - **Capital** and **largest city**
 - **Borders**
-- **Nickname** and **statehood date**
+- **Nickname**
+- **Statehood date**, with the order the state joined, like *August 1, 1876 (#38/50)*
 - **Governor** and party
 - **Ranked numbers:** population, GDP, GDP per capita, land area and density
 
@@ -78,7 +79,7 @@ Within the deck, states are ordered by population, largest first.
 - Population and GDP are for 2025. Governors are those in office in November 2026, so check anything that matters.
 - Names often have more than one accepted pronunciation; only one is shown, and the respelling is generated automatically.
 - Borders are land borders only. States that meet at a single point or across water do not count.
-- For the original 13 states, the statehood date is the date they ratified the Constitution.
+- For the original 13 states, the statehood date is the date they ratified the Constitution. North and South Dakota joined on the same day and are numbered 39th and 40th, as is conventional.
 
 ---
 

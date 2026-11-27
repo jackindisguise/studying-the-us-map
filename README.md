@@ -57,7 +57,7 @@ States with very little land (here Rhode Island) also get a zoomed-in box in the
 
 ## What this project does
 
-- **Collects the data:** takes population from the U.S. Census Bureau, GDP from the Bureau of Economic Analysis and the other facts from Wikipedia, and writes one record per state to `data/records.json`. Each numeric value (population, GDP, GDP per capita, land area, density) carries its rank among the 50 states, as `6,012,561 (#20/50)`; 1 is the highest and ties share a rank.
+- **Collects the data:** takes population from the U.S. Census Bureau, GDP from the Bureau of Economic Analysis and the other facts from Wikipedia, and writes one record per state to `data/records.json`. Each numeric value (population, GDP, GDP per capita, land area, density) carries its rank among the 50 states, as `6,012,561 (#20/50)`; 1 is the highest and ties share a rank. The statehood date carries the state's order of admission, as `August 1, 1876 (#38/50)`; 1 is the first (Delaware).
 - **Adds pronunciation:** takes the US English IPA of each state name from Wiktionary and generates a plain-English respelling from it, with the same key for every state (`data/pronunciation.json`).
 - **Draws the maps:** renders every state's map SVG, and the zoom boxes, into `build/media/`.
 - **Writes the note file:** a single Anki-importable CSV, `build/notes.csv`, with one row per state. It has import headers (note type, deck and tags columns); the Map field holds `<img>` tags that point at the files in `build/media/`, named `us-map-<state>.svg` and `us-zoom-<state>.svg`. Import that folder's files into Anki's media folder as they are.
@@ -179,7 +179,7 @@ Already cached in `data/raw/`, and only fetched again by the fetch scripts, whic
 - **Wikipedia (CC BY-SA):** capital, largest city, statehood date, land area, governors and nicknames.
 - **Wiktionary (CC BY-SA):** US English IPA of the state names; the respelling is generated from it.
 
-Borders are land borders; states that only meet at a corner or across water do not count. For the original 13 states, the statehood date is the date they ratified the Constitution.
+Borders are land borders; states that only meet at a corner or across water do not count. For the original 13 states, the statehood date is the date they ratified the Constitution. North and South Dakota were admitted on the same day; they are numbered 39th and 40th, as is conventional.
 
 ---
 

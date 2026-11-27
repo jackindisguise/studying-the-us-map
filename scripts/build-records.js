@@ -111,6 +111,13 @@ const data = STATES.map((s) => {
   };
 });
 
+// Order of admission to the Union, appended to the date: "December 7, 1787 (#1/50)". North and South Dakota were admitted on the
+// same day and are conventionally numbered alphabetically (39th and 40th), so ties go by name.
+data.filter((d) => d.Statehood)
+  .sort((a, z) => new Date(a.Statehood) - new Date(z.Statehood) || a.Name.localeCompare(z.Name))
+  .forEach((d, i) => { d.Statehood += ` (#${i + 1}/${STATES.length})`; });
+data.sort((a, z) => STATES.findIndex((s) => s.name === a.Name) - STATES.findIndex((s) => s.name === z.Name));
+
 // Rank every numeric field among the 50 states: "39,355,309 (#1/50)". Ties share a rank; 1 = highest.
 const records = data.map(({ _numbers, ...r }) => {
   _numbers.forEach(([k, text, v], i) => {
