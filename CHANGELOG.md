@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/jackindisguise/studying-the-us-map/compare/v1.1.0...v1.2.0) (2026-11-27)
+
+
+### Features
+
+* show each state's order of admission with its statehood date ([2e95818](https://github.com/jackindisguise/studying-the-us-map/commit/2e95818cb1fd3f4a35dcf1da35045ec16db0a4a8))
+
 ## [1.1.0](https://github.com/jackindisguise/studying-the-us-map/compare/v1.0.0...v1.1.0) (2026-11-26)
 
 
