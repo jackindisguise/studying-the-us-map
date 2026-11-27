@@ -14,14 +14,21 @@
 ### Map to State
 Find the red state on a north-up map, then flip for the answer and its facts.
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/locate-front.png" alt="Locate, front" width="640">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/locate-back.png" alt="Locate, back" width="640">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/locate.png" alt="Locate: front and back" width="900">
+
+### Tiny states
+States with very little land (here Rhode Island) also get a zoomed-in box in the top-left corner, with a scale bar.
+
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/zoom.png" alt="Rhode Island with a zoom box: front and back" width="900">
 
 ### On a phone
 The cards fill the screen on a phone too: the map on top, and the details below it on the back.
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/phone-locate-front.png" alt="Locate on a phone, front" width="240">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/phone-locate-back.png" alt="Locate on a phone, back" width="240">
+#### Map to State
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/phone-locate.png" alt="Locate on a phone: front and back" width="440">
+
+#### Tiny states
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-us-map/main/docs/images/phone-zoom.png" alt="Rhode Island with a zoom box on a phone: front and back" width="440">
 
 ---
 
@@ -38,7 +45,8 @@ The cards fill the screen on a phone too: the map on top, and the details below 
 - **Pronunciation:** the IPA, with a plain-English respelling under it
 - **Capital** and **largest city**
 - **Borders**
-- **Nickname** and **statehood date**
+- **Nickname**
+- **Statehood date**, with the order the state joined, like *August 1, 1876 (#38/50)*
 - **Governor** and party
 - **Ranked numbers:** population, GDP, GDP per capita, land area and density
 
@@ -78,7 +86,7 @@ Within the deck, states are ordered by population, largest first.
 - Population and GDP are for 2025. Governors are those in office in November 2026, so check anything that matters.
 - Names often have more than one accepted pronunciation; only one is shown, and the respelling is generated automatically.
 - Borders are land borders only. States that meet at a single point or across water do not count.
-- For the original 13 states, the statehood date is the date they ratified the Constitution.
+- For the original 13 states, the statehood date is the date they ratified the Constitution. North and South Dakota joined on the same day and are numbered 39th and 40th, as is conventional.
 
 ---
 
